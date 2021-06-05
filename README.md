@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We are committed to making #n-o-d-e an inclusive and welcoming IRC channel for everyone.
+We are committed to making #n-o-d-e (on irc.libera.chat) an inclusive and welcoming IRC channel for everyone.
 
 Sadly, technology communities have a notorious reputation for harassment. We've set these ground rules to make it abundantly clear that this kind of behaviour is not acceptable, so that everyone can feel comfortable participating.
 
